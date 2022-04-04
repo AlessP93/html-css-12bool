@@ -1,0 +1,11 @@
+[class*="col-"] {
+    background-color: blue;
+    color: white;
+    border: 1px solid white;
+    min-height: 50px;
+}
+
+[class*="col-"] [class*="col-"] {
+    background-color: green;
+    padding: 20px;
+}
