@@ -2,11 +2,13 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.header-top ul li a{
+.header-top {
     background-color: rgb(35, 35, 35);
     color: lightgray;
     display: flex;
     text-decoration: none;
-    
+    list-style: none;
+
 }
+
 
