@@ -20,6 +20,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     padding: 10px;
+    
 }
 
 [clacc*="col-"] {
